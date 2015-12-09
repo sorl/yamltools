@@ -5,7 +5,9 @@ is preserved for dictionary (hash) keys and some pretty options set for
 indenting.
 
 
-Usage::
+Usage
+-----
+.. code-block:: python::
     from yamltools import yaml_to_json, json_to_yaml
 
 
@@ -13,7 +15,9 @@ Usage::
     print(json_to_yaml(json_data))
 
 
-Available methods::
+Available methods
+-----------------
+.. code-block:: python::
     yamltools.yaml_to_json
     yamltools.json_to_yaml
     yamltools.dump
