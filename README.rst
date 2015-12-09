@@ -6,16 +6,16 @@ indenting.
 
 
 Usage::
-  from yamltools import yaml_to_json, json_to_yaml
+    from yamltools import yaml_to_json, json_to_yaml
 
 
-  print(yaml_to_json(yaml_data))
-  print(json_to_yaml(json_data))
+    print(yaml_to_json(yaml_data))
+    print(json_to_yaml(json_data))
 
 
 Available methods::
-  yamltools.yaml_to_json
-  yamltools.json_to_yaml
-  yamltools.dump
-  yamltools.load
+    yamltools.yaml_to_json
+    yamltools.json_to_yaml
+    yamltools.dump
+    yamltools.load
 
