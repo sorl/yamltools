@@ -1,0 +1,10 @@
+*.swp
+*.swo
+.~*
+._*
+*.pyc
+.DS_Store
+yamltools.egg-info
+build
+dist
+.eggs
