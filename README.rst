@@ -1,8 +1,8 @@
 yamltools
 =========
-Uses `OrderedDict` in the conversion process from YAML <-> JSON so that order
-is preserved for dictionary (hash) keys and some pretty options set for
-indenting.
+Uses ``collections.OrderedDict`` in the conversion process from YAML <-> JSON
+so that order is preserved for dictionary (hash) keys and some pretty options
+set for indenting.
 
 
 Usage::
